@@ -1,0 +1,17 @@
+
+El objetivo de la técnica TDD es escribir pruebas unitarias antes de implementar el código.
+Esto ayuda a garantizar que el código sea correcto y que cumpla con los requisitos especificados.
+
+Los beneficios de implementar TDD en el Desarrollo de software incluyen:
+
+* Mejor calidad del código: TDD ayuda a garantizar que el código sea correcto y que cumpla con los
+    requisitos especificados. Esto se debe a que las pruebas unitarias se escriben antes de implementar
+    el código, lo que obliga a pensar en los requisitos y en cómo el código debe comportarse antes de escribirlo.
+
+* Mayor productividad: TDD puede ayudar a aumentar la productividad de los desarrolladores.
+    Esto se debe a que las pruebas unitarias proporcionan una retroalimentación inmediata sobre el
+    código, lo que ayuda a los desarrolladores a identificar y corregir errores rápidamente.
+
+* Menor mantenimiento: TDD puede ayudar a reducir el mantenimiento del código.
+    Esto se debe a que las pruebas unitarias proporcionan una cobertura de código completa, lo que
+    facilita la identificación de los cambios que pueden afectar al código.
